@@ -1,6 +1,6 @@
-var removeVowelsFromWords = require("./remove-vowels-in-array");
+let removeVowelsFromWords = require("./remove-vowels-in-array");
 
-test("remove vowels from all words in array", function() {
+test("remove vowels from all words in array", function () {
   // Arrange
   // Act
   // Assert

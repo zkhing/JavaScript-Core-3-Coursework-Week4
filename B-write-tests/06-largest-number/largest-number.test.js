@@ -1,6 +1,6 @@
-var getLargestNumber = require("./largest-number");
+let getLargestNumber = require("./largest-number");
 
-test("returns largest number in array", function() {
+test("returns largest number in array", function () {
   // Arrange
   // Act
   // Assert
