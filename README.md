@@ -1,4 +1,4 @@
-# JavaScript-Core-3-Coursework-Week4-London8
+# JavaScript-Core-3-Coursework-Week4
 
 ## Setup
 
@@ -31,11 +31,11 @@ The final exercises involve using TDD to implement functions. You can run only t
 
 ## Solutions
 
-The solutions for this classwork can be found here:
+The solutions for this coursework can be found here:
 
-https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week4-London8-Solution
+https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week4-Solution
 
-This is a **private** repository. Please request access from your Teachers, Buddy or City Coordinator after the lesson.
+This is a **private** repository. Please request access from your mentors next week.
 
 ## Instructions for submission
 
