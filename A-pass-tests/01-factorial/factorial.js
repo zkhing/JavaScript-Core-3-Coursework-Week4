@@ -8,6 +8,14 @@
 // calculate and return the factorial of int
 // note: factorial of 0 is 1
 
-function factorial(int) {}
+function factorial(int) {
+   //base case
+  if (int == 0 || int == 1) {
+    return 1;
+    //recursive case
+  } else {
+    return int * factorial(int - 1);
+  }
+}
 
 module.exports = factorial;
